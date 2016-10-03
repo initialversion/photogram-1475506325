@@ -51,3 +51,5 @@ gem 'inherited_resources', :github => 'activeadmin/inherited_resources'
 gem 'carrierwave'
 gem 'cloudinary'
 gem 'dotenv-rails', :groups => [:development, :test]
+gem 'gmaps4rails'
+gem 'underscore-rails'
